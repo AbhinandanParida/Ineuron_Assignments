@@ -1,2 +1,2 @@
 # Ineuron_Assignments
-Repository of all the assignments submitted
+This is a simple Max and Min temp for certain year using the concept of Partitioner
